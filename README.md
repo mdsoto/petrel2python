@@ -2,7 +2,7 @@
 
 <img src="petrel2python.png" style="width:1000px" align="center">
 
-<h1><center>Exporting and analizing data from Petrel to Python</h1></center>
+<h1><center>Exporting and analizing Petrel's data to Python</h1></center>
 
 <h2>Notebook creator</h2>
 
