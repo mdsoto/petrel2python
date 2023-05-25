@@ -1,6 +1,6 @@
 <div class="cell markdown">
 
-<img src="petrel2python.png" style="width:1000px" align="center">
+<img src="petrel2python.png" style="width:750" align="center">
 
 <h1><center>Exporting and analizing Petrel's data to Python</h1></center>
 
